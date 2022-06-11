@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rafaellacintra">
 
-# Welcome 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=40&color=FF79C6&height=80&lines=Welcome+%F0%9F%91%8B;Bem-vindo+%F0%9F%91%8B)](https://git.io/typing-svg)
+
 
   [![Discord Badge](https://img.shields.io/badge/RafsCintra-%231257-blueviolet/)](https://discord.com/channels/@me)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaellascintra/)](https://www.linkedin.com/in/rafaellascintra/)
