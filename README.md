@@ -31,9 +31,8 @@
 <div>
   <a href="https://github.com/rafaellacintra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacintra&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellacintra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=rafaellacintra&theme=dracula)](https://github.com/rafaellacintra/github-readme-activity-graph)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellacintra&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  [![Rafaella Cintra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rafaellacintra&theme=dracula)](https://github.com/rafaellacintra/github-readme-activity-graph)
 </div>
 
 
