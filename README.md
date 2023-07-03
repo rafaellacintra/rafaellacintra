@@ -15,23 +15,24 @@
 <div>
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />   
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img  height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+  <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height='40px' src="https://react-query.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg"/>
+  <img height='40px' src="https://user-images.githubusercontent.com/46889813/106451545-c7cef300-6497-11eb-80d9-e51c9fc3cd33.png"/>
+  <img height='40px' src="https://i2.wp.com/programmingwithmosh.com/wp-content/uploads/2019/07/GraphQL_Logo.svg.png?fit=2000%2C2000&ssl=1"/>
   <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  
-  <img height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+  <img  height='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
           
 
 
 ## My statistics
 <div>
-  <a href="https://github.com/rafaellacintra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacintra&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellacintra&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellacintra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=rafaellacintra&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
     
   [![Rafaella Cintra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafaellacintra&theme=dracula)](https://github.com/rafaellacintra/github-readme-activity-graph)
 </div>
